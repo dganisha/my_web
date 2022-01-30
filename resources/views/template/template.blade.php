@@ -52,7 +52,12 @@
 					</p>
 				</div>
 			</div>
-			<div class="col-md-3 widget"></div>
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Lainnya</h3>
+				<div class="widget-body">
+					<p><a href="/blog">Blog</p>
+				</div>
+			</div>
 
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Tentang</h3>
